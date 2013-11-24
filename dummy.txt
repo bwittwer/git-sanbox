@@ -1,3 +1,4 @@
 hello world
 another line in a fake file.
+a third line in conflict.
 eof.

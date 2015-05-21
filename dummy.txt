@@ -2,5 +2,5 @@ hello world
 another line in a fake file.
 a third line in conflict.
 s
-test 3
+test 4
 eof.
